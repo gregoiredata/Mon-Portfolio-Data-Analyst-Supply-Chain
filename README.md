@@ -61,15 +61,15 @@ Projet visant à appliquer nos compétences en nettoyage de données, analyse de
 
 ## Vieille métier et technologique
 Je vous invite également à consulter le tableau de bord interactif que je tiens  sur les dernières tendances, méthodes et outils utilisées en analyse de données (machine-learning, intégration IOT...)
-[Voir le document](lien-vers-le-fichier)
+[Télécharger le rapport Power BI](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/05B_tableaux_bords_veille_metier.pbix)
 
 ## Démonstrations de mes compétences pour le client Aerosoft
-- **Étude du besoin client :** [Voir le document PDF](lien-vers-le-document)
-- **Cahier des charges :** [Voir le document PDF](lien-vers-le-fichier)
-- **Planification projet :** [Télécharger le rapport Power BI](lien-vers-le-fichier)
+- **Étude du besoin client :** [Voir le document PDF](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/2_%20Analyse_des_besoins_client..pdf)
+- **Cahier des charges :** [Voir le document PDF](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/3_Cahier_des_charges_Portfolio.pdf)
+- **Planification projet :** [Télécharger le rapport Power BI](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/04_diagramme_Gantt_PowerBI_projet.pbix)
 - **Vidéo formation graphique Power BI :** [Voir la vidéo Loom](lien-vers-le-fichier)
-- **Documentation création graphiques Power BI :** [Voir le document PDF](lien-vers-le-fichier)
+- **Documentation création graphiques Power BI :** [Voir le document PDF](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/07_Proc%C3%A9dure_cre%CC%81ation_de_graphiques_avec_PowerBI.pdf)
 
 ## Me contacter
-- **Email :** [Votre email]
+- **Email :** [beaussartgregoiredata@gmail.com]
 - **LinkedIn :** [Votre lien LinkedIn]
