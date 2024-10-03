@@ -63,7 +63,7 @@ Projet visant à appliquer nos compétences en nettoyage de données, analyse de
 Je vous invite également à consulter le tableau de bord interactif que je tiens  sur les dernières tendances, méthodes et outils utilisées en analyse de données (machine-learning, intégration IOT...)
 [Télécharger le rapport Power BI](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/05B_tableaux_bords_veille_metier.pbix)
 
-## Démonstrations de mes compétences pour le client Aerosoft
+## Démonstrations de mes compétences dans le cadre de contenus spécifiques pour l'offre d'emploi du client Aerosoft
 - **Étude du besoin client :** [Voir le document PDF](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/2_%20Analyse_des_besoins_client..pdf)
 - **Cahier des charges :** [Voir le document PDF](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/3_Cahier_des_charges_Portfolio.pdf)
 - **Planification projet :** [Télécharger le rapport Power BI](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/04_diagramme_Gantt_PowerBI_projet.pbix)
