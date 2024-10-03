@@ -19,7 +19,7 @@ Bienveillant, Curieux, Courageux j'ai aimé me former à  l'analyse de données 
 
 ## Mon profil professionnel
 Je vous présente mon profil professionnel sous la forme d'un tableau de bord interactif vous permettant de distinguer mes réalisations, compétences, technologies utilisées par projet et voir de façon globale les indicateurs de mon profil.
-[Voir le document](lien-vers-le-fichier)
+[Voir le document](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/05A_tableaux_bords_profil.pbix)
 
 ## Mes projets
 ### 1. Améliorez un suivi d'activités d'entrepôt logistique
