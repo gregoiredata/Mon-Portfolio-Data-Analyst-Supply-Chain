@@ -1,8 +1,8 @@
 # Mon Portfolio Data-Analyst-Supply-Chain
 
-Bienvenue sur mon portfolio de Data Analyst Supply-Chain! Bienveillant, Curieux, Courageux j'ai aimé me former à  l'analyse de données et l'optimisation des chaînes d'approvisionnement. Fort de 15 années professionnelles dans le secteur logistique (chef de service logistique en entrepôt) je peux désormais combiner mes compétences et connaissances dans ce domaine avec l'analyse de données. Ce portfolio présente mes compétences, les projets que j'ai réalisés ainsi que des exemples de livrables pour répondre à des besoins spécifiques d'une offre d'emploi de data-analyst.
+Bienvenue sur mon portfolio de Data Analyst Supply-Chain!
+Bienveillant, Curieux, Courageux j'ai aimé me former à  l'analyse de données et l'optimisation des chaînes d'approvisionnement. Fort de 15 années professionnelles dans le secteur logistique (chef de service logistique en entrepôt) je peux désormais combiner mes compétences et connaissances dans ce domaine avec l'analyse de données. Ce portfolio présente mes compétences en Data-Analyses , les projets que j'ai réalisés ainsi que des exemples de livrables pour répondre à des besoins spécifiques d'une offre d'emploi de data-analyst.
 
-Portfolio présentant mes compétences en Data-Analyses Supply-Chain et mes projets 
 
 ## À propos de moi
 - **Nom :** [Beaussart Grégoire]
