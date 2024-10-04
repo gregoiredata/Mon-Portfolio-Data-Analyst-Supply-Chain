@@ -30,6 +30,7 @@ Les 9 projets de data-analyses réalisés:
 
 [Section_Projets](projet.md)
 
+![MonImage](imageprojet.png)
 
 ## Vieille métier et technologique
 
