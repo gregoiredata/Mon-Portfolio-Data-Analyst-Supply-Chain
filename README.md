@@ -46,4 +46,4 @@ Créations de contenues spécifiques pour l'offre d'emploi de data-analyst exper
 
 ## Me contacter
 - **Email :** [beaussartgregoiredata@gmail.com]
-- **LinkedIn :** [Votre lien LinkedIn]
+- **LinkedIn :** [https://www.linkedin.com/in/gr%C3%A9goire-beaussart-25798893/]
