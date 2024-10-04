@@ -21,7 +21,7 @@ Projet visant à explorer et analyser un flux important de données sous SQl pou
 
 ### 5. Optimisez la gestion et nettoyer les données du stock d'une entreprise
 Projet visant à analyser les données du stock d'une boutique de vin sous Python afin d'identifier les erreurs, calculer le chiffre d'affaires, analyser l'état des stocks et proposer des recommandations pour améliorer la gestion des données de l'entreprise.
-[Consultez ou téléchargez le Notebook Jupyter d'analyse de données](Projet5_notebook.ipynb)
+[Téléchargez le Notebook Jupyter d'analyse de données](Projet5_notebook.ipynb)
 
 ### 6. Créez un outil de simulation avec Excel afin de prévoir les commandes
 Projet visant à construire sous Excel un outil automatisé de suggestion de commandes et d'analyser l'approvisionnement en produits et les coûts de transport afin de rationaliser les passations de commande et d'optimiser la chaîne d'approvisionnement.
@@ -35,8 +35,8 @@ Projet visant à analyser les données de productions d'une usine de céréales 
 
 ### 8. Analyser les pics de ventes pour gérer au mieux les variations d'activités
 Projet visant à  se familiariser à l’analyse des séries temporelles sous Python, comprendre les notions de saisonnalité et de tendance des séries temporelles, nous analysons l'évolution des volumes de vente des produits sur quatre années afin de proposer une réorganisation logistique optimale pour l'entrepôt de l'entreprise en tenant compte de la saisonnalité de l'activité.
-[Consultez ou téléchargez le Notebook Jupyter d'analyse de données](Projet8_notebook.ipynb)
+[Téléchargez le Notebook Jupyter d'analyse de données](Projet8_notebook.ipynb)
 
 ### 9. Modélisez les ventes d'un groupe de magasins
 Projet visant à appliquer nos compétences en nettoyage de données, analyse de séries temporelles afin de réalisr des prévisions de ventes en ayant analyser les typologies des magasins de l'entreprise.
-[Consultez ou téléchargez le Notebook Jupyter d'analyse de données](Projet9_Notebook .ipynb)
+[Téléchargez le Notebook Jupyter d'analyse de données](Projet9_Notebook .ipynb)
