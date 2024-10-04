@@ -1,9 +1,8 @@
-theme: jekyll-theme-minimal
-
 title: "Portfolio professionnel Grégoire Beaussart"
 description: "Portfolio data-analyst-supply-chain"
 baseurl: "" 
 url: "https://gregoiredata.github.io" 
+theme: jekyll-theme-minimal
 
 # Navigation
 navbar:
