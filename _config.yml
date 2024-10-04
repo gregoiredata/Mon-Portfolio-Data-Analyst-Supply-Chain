@@ -1,5 +1,18 @@
-title: Grégoire Beaussart
-#logo: 
-desription: Portfolio data-analyst-supply-chain
-#show_dowloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+
+title: "Portfolio professionnel Grégoire Beaussart"
+description: "Portfolio data-analyst-supply-chain"
+baseurl: "" 
+url: "https://gregoiredata.github.io" 
+
+# Navigation
+navbar:
+  - name: "Accueil"
+    link: "/"
+  - name: "Portfolio professionnel"
+  - name: "Projets"
+    link: "/projet.md"
+  - name: "Veille métiet et technologique"
+    link: "/veille.md"
+  - name: "Candidature offre emploi Aerosoft"
+    link: "/aerosoft.md"
