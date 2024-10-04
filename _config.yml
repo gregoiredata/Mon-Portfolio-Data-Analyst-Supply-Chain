@@ -1,0 +1,24 @@
+theme: jekyll-theme-cayman
+
+title: "Portfolio professionnel"
+description: "Bienvenue dans mon portfolio"
+baseurl: "" 
+url: "https://gregoiredata.github.io"
+
+# Navigation
+navbar:
+  - name: "Accueil"
+    link: "/"
+  - name: "Projets"
+    link: "/projets.md"
+  - name: "Profil professionnel"
+    link: "/profil_professionnel.md"
+  - name: "Veille métier"
+    link: "/Veille"
+  - name: "Candidature Aerosoft"
+    link: "/documents.md"
+
+# Me contacter (ajouté)
+contact:
+  email: "beaussartgregoiredata@gmail.com"
+  linkedin: "https://www.linkedin.com/in/votre-lien-linkedin"
