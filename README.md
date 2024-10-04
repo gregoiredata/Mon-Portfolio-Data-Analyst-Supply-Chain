@@ -19,7 +19,7 @@ Bienveillant, Curieux, Courageux j'ai aimé me former à  l'analyse de données 
 
 ## Mon profil professionnel
 
-Toutes mes compétences, maitrises des technologies de data analyse ainsi que mon parcours professionnel : c'est ici en version interactive PowerBi téléchargeable 
+Toutes mes compétences, maitrises des technologies de data analyse ainsi que mon parcours professionnel :
 [Section_Profil](profil_professionnel.md)
 
 ![MonImage](imageprofil.png)
@@ -27,19 +27,20 @@ Toutes mes compétences, maitrises des technologies de data analyse ainsi que mo
 ## Mes projets
 
 Les 9 projets de data-analyses réalisés:
+
 [Section_Projets](projet.md)
 
 
 ## Vieille métier et technologique
 
-Derniers outils, méthodes et évolutions en data-analyse: c'est ici en version interactive PowerBi téléchargeable 
+Derniers outils, méthodes et évolutions en data-analyse: 
 [Section_Veille](veille_m%C3%A9tier_technologique.md)
 
 ![MonImage](imageveille.png)
 
 ## Démonstrations de mes compétences dans le cadre de contenus spécifiques pour l'offre d'emploi du client Aerosoft
 
-Démonstrations de mes compétences pour l'offre d'emploi de data-analyst expert chez Aerosoft:
+Créations de contenues spécifiques pour l'offre d'emploi de data-analyst expert chez Aerosoft:
 [Section_Aerosoft](demonstration_competences_candidature_offre_d_emploi_aerosoft.md)
 
 ## Me contacter
