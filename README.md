@@ -10,18 +10,26 @@ Bienveillant, Curieux, Courageux j'ai aimé me former à  l'analyse de données 
 - **Résident :** Marne-la-Vallée (77)
 - **Rôle :** Data Analyst Supply Chain
 - **Compétences :**
-  - Analyse de données (Python, Pandas, Excel)
+  - Analyse de données (Python, Pandas, Excel, SQL)
   - Visualisation de données (Power BI, Tableau, Matplotlib, Seaborn)
-  - Modélisation statistique (ANOVA, Régression, K-means, SARIMA)
+  - Modélisation statistique (ANOVA, Régressions, K-means, moyennes mobiles, SARIMA)
   - Gestion des bases de données (MYSQL, SQLITESTUDIO)
   - Prévisions des ventes, Optimisation des stocks
   - Suivi et mise en place de KPI logistiques, tableaux de bords (Excel, PowerBi)
 
 ## Mon profil professionnel
+
+Toutes mes compétences, maitrises des technologies de data analyse ainsi que mon parcours professionnel : 
+[Section_Profil](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/profil_professionnel.md)
+
 Je vous présente mon profil professionnel sous la forme d'un tableau de bord interactif vous permettant de distinguer mes réalisations, compétences, technologies utilisées par projet et voir de façon globale les indicateurs de mon profil.
-[Voir le document](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/05A_tableaux_bords_profil.pbix)
+
 
 ## Mes projets
+
+Les 9 projets de data-analyses réalisés:
+[Section_Projets](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/projet.md)
+
 ### 1. Améliorez un suivi d'activités d'entrepôt logistique
 Projet visant à s'initier au métier de Supply Chain Data Analyst en développant des compétences d'analyse et de synthèse grâce à l'utilisation d'indicateurs classiques en entrepôt.
 Utilisation d'Excel pour analyser des données, créer des graphiques et présenter ses conclusions.
@@ -60,10 +68,18 @@ Projet visant à appliquer nos compétences en nettoyage de données, analyse de
 [Voir le projet](lien-vers-le-fichier-ou-le-repository-du-projet)
 
 ## Vieille métier et technologique
+
+Derniers outils, méthodes et évolutions en data-analyse:
+[Section_Veille](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/veille_m%C3%A9tier_technologique.md)
+
 Je vous invite également à consulter le tableau de bord interactif que je tiens  sur les dernières tendances, méthodes et outils utilisées en analyse de données (machine-learning, intégration IOT...)
 [Télécharger le rapport Power BI](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/05B_tableaux_bords_veille_metier.pbix)
 
 ## Démonstrations de mes compétences dans le cadre de contenus spécifiques pour l'offre d'emploi du client Aerosoft
+
+Démonstrations de mes compétences pour l'offre d'emploi de data-analyst expert chez Aerosoft:
+[Section_Aerosoft](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/demonstration_competences_candidature_offre_d_emploi_aerosoft.md)
+
 - **Étude du besoin client :** [Voir le document PDF](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/2_%20Analyse_des_besoins_client..pdf)
 - **Cahier des charges :** [Voir le document PDF](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/3_Cahier_des_charges_Portfolio.pdf)
 - **Planification projet :** [Télécharger le rapport Power BI](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/04_diagramme_Gantt_PowerBI_projet.pbix)
