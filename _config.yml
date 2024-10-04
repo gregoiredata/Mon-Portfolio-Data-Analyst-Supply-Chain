@@ -11,7 +11,7 @@ navbar:
     link: "/"
   - name: "Portfolio professionnel"
     link: "/profil_professionnel.md"
-  - name: "Projets"
+  - name: "Projets data-analyse"
     link: "/projet.md"
   - name: "Veille métiet et technologique"
     link: "/veille_métier_technologique.md"
