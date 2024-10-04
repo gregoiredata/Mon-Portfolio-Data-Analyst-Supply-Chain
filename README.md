@@ -39,10 +39,10 @@ Derniers outils, méthodes et évolutions en data-analyse:
 
 ![MonImage](imageveille.png)
 
-## Démonstrations de mes compétences dans le cadre de contenus spécifiques pour l'offre d'emploi du client Aerosoft
+## Démonstrations de mes compétences dans le cadre de contenus spécifiques pour l'offre d'emploi du client Aeroworld
 
-Créations de contenues spécifiques pour l'offre d'emploi de data-analyst expert chez Aerosoft:
-[Section_Aerosoft](demonstration_competences_candidature_offre_d_emploi_aerosoft.md)
+Créations de contenues spécifiques pour l'offre d'emploi de data-analyst expert chez Aeroworld:
+[Section_Candidature Aeroworld](demonstration_competences_candidature_offre_d_emploi_aeroworld.md)
 
 ## Me contacter
 - **Email :** [beaussartgregoiredata@gmail.com]
