@@ -20,7 +20,7 @@ Bienveillant, Curieux, Courageux j'ai aimé me former à  l'analyse de données 
 ## Mon profil professionnel
 
 Toutes mes compétences, maitrises des technologies de data analyse ainsi que mon parcours professionnel : 
-[Section_Profil](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/profil_professionnel.md)
+[Section_Profil](profil_professionnel.md)
 
 Je vous présente mon profil professionnel sous la forme d'un tableau de bord interactif vous permettant de distinguer mes réalisations, compétences, technologies utilisées par projet et voir de façon globale les indicateurs de mon profil.
 
@@ -29,7 +29,7 @@ Je vous présente mon profil professionnel sous la forme d'un tableau de bord in
 
 Les 9 projets de data-analyses réalisés:
 
-[Section_Projets](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/projet.md)
+[Section_Projets](projet.md)
 
 ### 1. Améliorez un suivi d'activités d'entrepôt logistique
 Projet visant à s'initier au métier de Supply Chain Data Analyst en développant des compétences d'analyse et de synthèse grâce à l'utilisation d'indicateurs classiques en entrepôt.
@@ -71,7 +71,7 @@ Projet visant à appliquer nos compétences en nettoyage de données, analyse de
 ## Vieille métier et technologique
 
 Derniers outils, méthodes et évolutions en data-analyse:
-[Section_Veille](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/veille_m%C3%A9tier_technologique.md)
+[Section_Veille](veille_m%C3%A9tier_technologique.md)
 
 Je vous invite également à consulter le tableau de bord interactif que je tiens  sur les dernières tendances, méthodes et outils utilisées en analyse de données (machine-learning, intégration IOT...)
 [Télécharger le rapport Power BI](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/05B_tableaux_bords_veille_metier.pbix)
@@ -79,7 +79,7 @@ Je vous invite également à consulter le tableau de bord interactif que je tien
 ## Démonstrations de mes compétences dans le cadre de contenus spécifiques pour l'offre d'emploi du client Aerosoft
 
 Démonstrations de mes compétences pour l'offre d'emploi de data-analyst expert chez Aerosoft:
-[Section_Aerosoft](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/demonstration_competences_candidature_offre_d_emploi_aerosoft.md)
+[Section_Aerosoft](demonstration_competences_candidature_offre_d_emploi_aerosoft.md)
 
 - **Étude du besoin client :** [Voir le document PDF](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/2_%20Analyse_des_besoins_client..pdf)
 - **Cahier des charges :** [Voir le document PDF](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/3_Cahier_des_charges_Portfolio.pdf)
