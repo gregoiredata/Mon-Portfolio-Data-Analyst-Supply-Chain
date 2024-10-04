@@ -1,4 +1,4 @@
-## Démonstrations de mes compétences dans le cadre de contenus spécifiques pour l'offre d'emploi du client Aerosoft
+## Démonstrations de mes compétences dans le cadre de contenus spécifiques pour l'offre d'emploi du client AeroWorld
 
 - **Étude du besoin client :** [Voir le document PDF](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/2_%20Analyse_des_besoins_client..pdf)
 - **Cahier des charges :** [Voir le document PDF](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/3_Cahier_des_charges_Portfolio.pdf)
