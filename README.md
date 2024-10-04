@@ -22,11 +22,14 @@ Bienveillant, Curieux, Courageux j'ai aimé me former à  l'analyse de données 
 Toutes mes compétences, maitrises des technologies de data analyse ainsi que mon parcours professionnel : 
 [Section_Profil](profil_professionnel.md)
 
+![MonImage](imageprofil.png)
+
 ## Mes projets
 
 Les 9 projets de data-analyses réalisés:
-
 [Section_Projets](projet.md)
+
+![MonImage](imageveille.png)
 
 ## Vieille métier et technologique
 
