@@ -35,7 +35,7 @@ Les 9 projets de data-analyses réalisés:
 ## Vieille métier et technologique
 
 Derniers outils, méthodes et évolutions en data-analyse: 
-[Section_Veille](veille_métier_technologique.md)
+[Section_Veille](veille_metier_technologique.md)
 
 ![MonImage](imageveille.png)
 
