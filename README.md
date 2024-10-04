@@ -28,6 +28,7 @@ Je vous présente mon profil professionnel sous la forme d'un tableau de bord in
 ## Mes projets
 
 Les 9 projets de data-analyses réalisés:
+
 [Section_Projets](https://github.com/gregoiredata/Mon-Portfolio-Data-Analyst-Supply-Chain/blob/main/projet.md)
 
 ### 1. Améliorez un suivi d'activités d'entrepôt logistique
