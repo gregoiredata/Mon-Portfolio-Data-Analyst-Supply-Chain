@@ -39,4 +39,4 @@ Projet visant à  se familiariser à l’analyse des séries temporelles sous Py
 
 ### 9. Modélisez les ventes d'un groupe de magasins
 Projet visant à appliquer nos compétences en nettoyage de données, analyse de séries temporelles afin de réalisr des prévisions de ventes en ayant analyser les typologies des magasins de l'entreprise.
-[Téléchargez le Notebook Jupyter d'analyse de données](Projet9_Notebook .ipynb)
+[Téléchargez le Notebook Jupyter d'analyse de données](Projet9_Notebook.ipynb)
