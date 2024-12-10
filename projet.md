@@ -8,7 +8,7 @@ Utilisation d'Excel pour analyser des données, créer des graphiques et présen
 ### 2. Optimisez des trajets de livraisons
 Projet visant à approfondir nos compétences sur Excel en collecte, exploration et nettoyage de données, tout en construisant des tableaux de bord analytiques pour optimiser les coûts et l'empreinte carbone du transport d'une entreprise promouvant une production locale et responsable.
 [Téléchargez la procédure de nettoyage Word ](Projet2_procédure_nettoyage_données.docx)
-[Téléchargez le tableau de bord_indicateurs_transport Excel](Projet2_4_Tableau_de_bord_indicateurs_transport_022024.xlsx
+[Téléchargez le tableau de bord_indicateurs_transport Excel](Projet2_4_Tableau_de_bord_indicateurs_transport_022024.xlsx)
 
 ### 3. Optimisez des flux de retours d'un entrepôt
 Projet visant à apprendre à structurer, analyser et visualiser des données à l'aide de Power BI, en créant un tableau de bord interactif répondant aux besoins du client. Présentation de l'outil à des utilisateurs non experts.
